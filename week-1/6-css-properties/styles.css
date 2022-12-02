@@ -1,1 +1,21 @@
 /* Add your CSS code below */
+a {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}
+.message__time {
+  font-size: 0.9rem;
+}
+.item {
+  opacity: 0.5;
+}
+.line {
+  line-height: 50px;
+}
+.gpu {
+  border-left: 100px;
+  border-left-width: 50%;
+  border-left-color: blue;
+  border-left: solid blue;
+}
